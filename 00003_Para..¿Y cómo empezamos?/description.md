@@ -7,3 +7,5 @@ Veamos un ejemplo:
 ```javascript
   console.log("Hola, mi nombre es Martin");
 ```
+
+> Probá `console.log("Hola")` en la consola. Tené en cuenta que si lo que querés imprimir es un texto, entonces tenés que usar comillas. Pero también podés imprimir por pantalla cuentas. 
