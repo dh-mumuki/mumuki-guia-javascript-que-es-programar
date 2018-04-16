@@ -8,7 +8,7 @@ Estos son los operadores matemáticos.
 
     <td>Suma</td>
 
-    <td> + </td>
+    <td>      + </td>
 
   </tr>
   
@@ -16,7 +16,7 @@ Estos son los operadores matemáticos.
 
     <td>Resta</td>
 
-    <td> - </td>
+    <td>      - </td>
 
   </tr>
   
@@ -24,7 +24,7 @@ Estos son los operadores matemáticos.
 
     <td>Multiplicación</td>
 
-    <td> * </td>
+    <td>      * </td>
 
   </tr>
   
@@ -32,7 +32,7 @@ Estos son los operadores matemáticos.
 
     <td>División</td>
 
-    <td> / </td>
+    <td>      / </td>
 
   </tr>
 
