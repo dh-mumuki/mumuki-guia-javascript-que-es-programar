@@ -13,4 +13,4 @@ Por eso muchas veces daremos ejemplos usando la consola. Por ejemplo, si escribi
 al presionar enter la consola mostrará un 8. En Mumuki, podés reconocer fácilmente la consola porque arrancan todos con el chirimbolito `ム`.
 
 
-> Juga con la consola todo lo que quieras para ponerte canchero. Tené en cuenta que podes usar la consola como una calculadora. Podés usar cualquier operador matemático que conozcas, como la suma, la resta, la multiplicación y la división.
+> Juga con la consola todo lo que quieras para ponerte canchero. Tené en cuenta que podes usar la consola como una calculadora. Podés usar cualquier operador matemático que conozcas, como la suma, la resta, la multiplicación y la división. Si ponés alguna instrucción que no entienda la compu, va a aparecer un texto largo en rojo, un error.
