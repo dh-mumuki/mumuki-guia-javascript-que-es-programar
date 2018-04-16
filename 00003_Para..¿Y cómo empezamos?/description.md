@@ -5,6 +5,5 @@ Ahora que ya te convencimos de que vamos a necesitar aprender un lenguaje de pro
 Veamos un ejemplo:
 
 ```javascript
-  imprimir("Hola, mi nombre es Martin");
-  imprimir("¡¡Estas imprimiendo por pantalla!!");
+  console.log("Hola, mi nombre es Martin");
 ```
