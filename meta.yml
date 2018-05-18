@@ -1,5 +1,5 @@
 ---
-name: Introducción a la Programación
+name: Introducción a JavaScript
 locale: es
 type: learning
 beta: false
@@ -7,8 +7,6 @@ teacher_info: ''
 language: javascript
 id_format: "%05d"
 order:
-- 1
-- 2
 - 5
 - 3
 - 4
