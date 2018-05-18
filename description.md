@@ -1,1 +1,1 @@
-Introducción a que es la programación.
+Introducción al lenguaje Javascript.
