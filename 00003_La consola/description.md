@@ -1,4 +1,4 @@
-Ahora que ya te convencimos de que vamos a necesitar aprender un lenguaje de programación, y elegimos JavaScript vamos a presentarte la consola. :stuck_out_tongue:: 
+Ahora que ya te convencimos de que vamos a necesitar aprender un lenguaje de programación, y elegimos JavaScript vamos a presentarte la consola. :stuck_out_tongue:
 
 La consola es una herramienta muy útil que te permite mostrar informacion por pantalla. De esta manera logramos brindarle informacion al que este usando nuestro programa.
 
