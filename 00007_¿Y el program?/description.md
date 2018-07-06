@@ -5,7 +5,7 @@ La respuesta es tan simple como sorprendente: En JavaScript si queremos un progr
 console.log("Hola, mundo!");
 ¿Más fácil no?
 
-O si queremos un programa que imprima H, O, L, A por separado, podremos escribirlo así:
+Si queremos escribir un programa que imprima cada letra de la palabra HOLA por separado, podremos escribirlo así:
 
 console.log("H");
 console.log("O");
