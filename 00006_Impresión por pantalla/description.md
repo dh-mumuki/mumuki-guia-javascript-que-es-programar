@@ -9,7 +9,7 @@ console.log("Hola")
 ```
 
 > Probá `console.log("Hola")` en la consola. 
-Al presionar *enter*, la consola nos "imprimirá" el resultado por pantalla. Si lo que querés "imprimir" es un texto, entonces tenés que usar comillas. 
+Al presionar *enter*, la consola nos "imprimirá" el resultado por pantalla. Si lo que querés "imprimir" es un texto, tenés que escribirlo entre comillas. 
 
 También podés mostrar por pantalla el resultado de un comando, por ejemplo una cuenta matemática. 
 
