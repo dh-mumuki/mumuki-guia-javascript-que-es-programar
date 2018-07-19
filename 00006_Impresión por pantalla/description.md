@@ -19,4 +19,4 @@ Veamos un ejemplo:
 console.log(5*5 + 4)
 ```
 
-> Jugá con el comando `console.log()` para ponerte cancero. Al presionar *enter*, la consola nos imprimirá el resultado de lo que pusimos entre paréntisis.
+> Hacé varias pruebas con el comando `console.log()` para ponerte canchero.
