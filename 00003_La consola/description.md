@@ -9,11 +9,11 @@ Ahora vamos a contar con **la consola**: una herramienta poderosa que nos permit
 En Mumuki, podés reconocer fácilmente la consola porque arrancan todos con el chirimbolito `ム`.
 
 ------------------------
-Muchas veces daremos ejemplos usando la consola. Por ejemplo, si escribimos en la consola: 
+Muchas veces daremos ejemplos usando la consola. Por ejemplo, si escribimos: 
 
 4 + 4 
 
-Al presionar enter la consola mostrará un 8.
+Al presionar enter mostrará un 8.
 
 
 ```javascript
