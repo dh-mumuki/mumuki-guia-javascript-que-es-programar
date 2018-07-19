@@ -2,11 +2,7 @@ En estos nuevos capítulos, hay un gran personaje que va a desaparecer: el table
 
 :cry: Bueeeno, no llores, quizás fuimos un poco duros: en JavaScript no hay tablero **¡porque no lo necesitás!** :sweat_smile: 
 
-Suceden dos cosas:
-
-1. El tablero nos servía para ver lo que nuestro programa hacía y qué resultados generaba. 
-2. El tablero nos permitía también observar los cambios de estado en nuestro programa. 
-
+El tablero nos servía para ver lo que nuestro programa hacía y qué resultados generaba. 
 
 Ahora vamos a contar con **la consola**: una herramienta poderosa que nos permite hacer pruebas más detalladas y flexibles. Además, nos permite mostrar informacion por pantalla. De esta manera podemos brindarle información al usuario de nuestro programa.
 
