@@ -21,4 +21,4 @@ Al presionar enter mostrará un 8.
 8
 ```
 
-> Te invitamos a que juegues con la consola todo lo que quieras para ponerte canchero. Tené en cuenta que podes usar la consola como una calculadora. Podés usar cualquier operador matemático que conozcas, como la suma, la resta, la multiplicación y la división. Si ponés alguna instrucción que no entienda la compu, va a aparecer un texto largo en rojo, informando un error.
+> Te invitamos a que juegues con la consola todo lo que quieras para ponerte canchero. Tené en cuenta que podes usarla como una calculadora. Podés ingresar cualquier operador matemático que conozcas, como la suma, la resta, la multiplicación y la división. Si ponés algun comando que no la compu no entienda, la consola te va a mostrar un texto largo en rojo, informando un error.
