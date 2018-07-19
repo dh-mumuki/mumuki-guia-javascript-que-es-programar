@@ -4,7 +4,7 @@ En estos nuevos capítulos, hay un gran personaje que va a desaparecer: el table
 
 El tablero nos servía para ver lo que nuestro programa hacía y qué resultados generaba. 
 
-Ahora vamos a contar con **la consola**: una herramienta poderosa que nos permite hacer pruebas más detalladas y flexibles. Además, nos permite mostrar informacion por pantalla. De esta manera podemos brindarle información al usuario de nuestro programa.
+Ahora vamos a contar con **la consola**: una herramienta poderosa que nos permite hacer pruebas más detalladas y flexibles. Además, nos permite mostrar información por pantalla. De esta manera podemos brindarle información al usuario de nuestro programa.
 
 En Mumuki, podés reconocer fácilmente la consola porque arrancan todos con el chirimbolito `ム`.
 
