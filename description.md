@@ -1,1 +1,1 @@
-¿Ya estás para salir del tablero? ¡Acompañanos a aprender más sobre programación de la mano del lenguaje JavaScript! **¡El lenguaje de la web!**
+¿Ya estás listo para salir del tablero? ¡Acompañanos a aprender más sobre programación de la mano del lenguaje JavaScript! **¡El lenguaje de la web!**
