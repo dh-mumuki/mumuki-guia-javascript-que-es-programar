@@ -1,1 +1,1 @@
-Introducción al lenguaje Javascript.
+¿Ya estás para salir del tablero? ¡Acompañanos a aprender más sobre programación de la mano del lenguaje JavaScript!
