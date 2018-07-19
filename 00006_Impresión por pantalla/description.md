@@ -1,6 +1,6 @@
-Vamos a mostrarte un comando en JavaScript que te permitirá mostrar por la consola lo que nosotros le pidamos :stuck_out_tongue:: En programación a esto lo llamamos ¡¡imprimir por pantalla!!. 
+Vamos a trabajar con un comando en JavaScript que te permite mostrar por la consola lo que nosotros le pidamos :stuck_out_tongue:: En programación a esto lo llamamos ¡¡imprimir por pantalla!!. Te va a ser super útil cuando empecemos a escribir programas en JavaScript.
 
-El comando es **console.log()**, en donde, dentro de los paréntisis incluiremos la información que deseamos imprimir por pantalla. 
+El comando es **console.log()**. Dentro de los paréntisis incluiremos la información que deseamos imprimir por pantalla. 
 
 Veamos un ejemplo:
 
