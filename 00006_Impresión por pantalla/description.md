@@ -1,8 +1,22 @@
-Ahora que ya te convencimos de que no necesitamos al tablero, vamos a mostrarte que sí hay algo parecido en JavaScript :stuck_out_tongue:: ¡¡La impresión por pantalla!!. Veamos un ejemplo:
+Vamos a mostrarte un comando en JavaScript que te permitirá mostrar por la consola lo que nosotros le pidamos :stuck_out_tongue:: En programación a esto lo llamamos ¡¡imprimir por pantalla!!. 
 
+El comando es **console.log()**, en donde, dentro de los paréntisis incluiremos la información que deseamos imprimir por pantalla. 
+
+Veamos un ejemplo:
 
 ```
 console.log("Hola")
 ```
 
->> Probá `console.log("Hola")` en la consola. Tené en cuenta que si lo que querés imprimir es un texto, entonces tenés que usar comillas. Pero también podés imprimir por pantalla cuentas. 
+>> Probá `console.log("Hola")` en la consola. 
+Al presionar *enter*, la consola nos imprimirá el resultado por pantalla. Tené en cuenta que si lo que querés imprimir es un texto, entonces tenés que usar comillas. 
+
+También podés imprimir por pantalla el resultado de un comando, por ejemplo una cuenta matemática. 
+
+Veamos un ejemplo:
+
+```
+console.log(5*5 + 4)
+```
+
+>> Jugá con el comando `console.log()` para ponerte cancero. Al presionar *enter*, la consola nos imprimirá el resultado de lo que pusimos entre paréntisis.
