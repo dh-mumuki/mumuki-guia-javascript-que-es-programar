@@ -1,4 +1,4 @@
-En estos nuevos capítulos, hay un gran personaje que va a desaparecer: el tablero. Seguro lo vas a extrañar, ¿no?
+En estos nuevas lecciones, hay un gran personaje que va a desaparecer: el tablero. Seguro lo vas a extrañar, ¿no?
 
 :cry: Bueeeno, no llores, quizás fuimos un poco duros: en JavaScript no hay tablero **¡porque no lo necesitás!** :sweat_smile: 
 
