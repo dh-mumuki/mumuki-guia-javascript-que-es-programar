@@ -1,4 +1,4 @@
-En JavaScript si queremos un programa que imprime por pantalla el clásico "Hola, mundo!", lo podremos escribir así sencillamente:
+En JavaScript si queremos un programa que imprima por pantalla el clásico "Hola, mundo!", lo podremos escribir así sencillamente:
 
 ```
 console.log("Hola, mundo!");
